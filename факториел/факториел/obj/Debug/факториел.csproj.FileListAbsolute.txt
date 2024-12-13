@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\факториел\bin\Debug\факториел.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\факториел\bin\Debug\факториел.exe
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\факториел\bin\Debug\факториел.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\факториел\obj\Debug\факториел.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\факториел\obj\Debug\факториел.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\факториел\obj\Debug\факториел.exe
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\факториел\obj\Debug\факториел.pdb

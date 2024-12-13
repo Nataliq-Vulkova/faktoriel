@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "факториел", "факториел\факториел.csproj", "{DFE50C7E-E027-439F-A176-4D53452AD2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сумиране на цифрите", "Сумиране на цифрите\Сумиране на цифрите.csproj", "{9A14CA64-6E81-443B-A16A-5D737A9DB814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE50C7E-E027-439F-A176-4D53452AD2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE50C7E-E027-439F-A176-4D53452AD2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE50C7E-E027-439F-A176-4D53452AD2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE50C7E-E027-439F-A176-4D53452AD2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A14CA64-6E81-443B-A16A-5D737A9DB814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A14CA64-6E81-443B-A16A-5D737A9DB814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A14CA64-6E81-443B-A16A-5D737A9DB814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A14CA64-6E81-443B-A16A-5D737A9DB814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5041DA43-9C21-4C09-8968-213C0909A078}
+	EndGlobalSection
+EndGlobal

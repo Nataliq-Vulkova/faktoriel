@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\Сумиране на цифрите\bin\Debug\Сумиране на цифрите.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\Сумиране на цифрите\bin\Debug\Сумиране на цифрите.exe
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\Сумиране на цифрите\bin\Debug\Сумиране на цифрите.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\Сумиране на цифрите\obj\Debug\Сумиране на цифрите.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\Сумиране на цифрите\obj\Debug\Сумиране на цифрите.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\Сумиране на цифрите\obj\Debug\Сумиране на цифрите.exe
+C:\Users\1409-12\Desktop\Наталия 9а\факториел\Сумиране на цифрите\obj\Debug\Сумиране на цифрите.pdb
